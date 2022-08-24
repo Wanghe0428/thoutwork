@@ -17,4 +17,5 @@ console.log(shoppingCart.displaySummary())
 
 const order = shoppingCart.checkout();
 
+console.log(11);
 console.log(order.displaySummary())
